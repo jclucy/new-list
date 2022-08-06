@@ -1,0 +1,32 @@
+.title-1{
+    text-transform: uppercase;
+    color:black;
+    font-weight: bold;
+}
+container-1{
+   border-radius: 10px  red;
+   border-color: gray;
+
+}
+.flex-box-container-1{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.box{
+   background-color: rgb(211, 210, 210);
+   margin-top: 50px ;
+   padding: 5px;
+   border-top-width: thin;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button{
+    background-color: rgb(26, 118, 194);
+    
+    border: 1px solid black;
+
+    color: white;
+}
